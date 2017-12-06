@@ -1,5 +1,5 @@
-## Weather Bot
-# By: Tim Zabel
+# Weather Bot
+### By: Tim Zabel
 
 This weather bot, when requested by another Twitter user, will respond with the correct weather report from the user's location.
 
